@@ -1,0 +1,27 @@
+_repo: The-old-frontier-Te-Awamutu-the-story-of-the-Waipa-Valley_67490
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cowan, James
+    gutenberg_agent_id: '2540'
+    url: http://www.gutenberg.org/2009/agents/2540
+description: ''
+gutenberg_issued: '2022-02-24'
+identifiers:
+  gutenberg: '67490'
+language: en
+pgterms:marc904: https://archive.org/details/oldfrontierteawa00cowaiala
+pgterms:marc905: 20160115234157cowan
+pgterms:marc906: '1922'
+pgterms:marc907: NZ
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by The Internet Archive/American Libraries.)
+publication_note: New Zealand :The Waipa Post Printing and Publishing Company,1922.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The old frontier: Te Awamutu, the story of the Waipa Valley'
+url: http://www.gutenberg.org/ebooks/67490
