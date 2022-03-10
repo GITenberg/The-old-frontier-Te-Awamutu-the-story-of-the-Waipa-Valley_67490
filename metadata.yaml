@@ -1,11 +1,16 @@
 _repo: The-old-frontier-Te-Awamutu-the-story-of-the-Waipa-Valley_67490
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cowan, James
     gutenberg_agent_id: '2540'
     url: http://www.gutenberg.org/2009/agents/2540
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67490#The-old-frontier-Te-Awamutu-the-story-of-the-Waipa-Valley
 gutenberg_issued: '2022-02-24'
 identifiers:
   gutenberg: '67490'
